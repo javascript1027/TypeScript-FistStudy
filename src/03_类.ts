@@ -50,6 +50,7 @@ const pig = new Pig('小猪', '吃东西', '粉色')
 pig.run() //继承父类方法
 pig.jump()
 pig.eat()
+// 11
 
 
 // 3.类修饰符
